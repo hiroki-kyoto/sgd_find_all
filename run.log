@@ -1,0 +1,51 @@
+Root# 0  found at iter# 1076
+Solution is:  [array([0.05244394], dtype=float32), array([[0.6913288 ],
+       [0.6959271 ],
+       [0.19429319]], dtype=float32)]
+Trapped! Reinitialize vars and search again!
+Optimize too slow at speed:  6.117625e-08
+Trapped! Reinitialize vars and search again!
+Root# 1  found at iter# 403
+Solution is:  [array([0.31607816], dtype=float32), array([[ 0.6778219 ],
+       [-0.53152364],
+       [-0.5079764 ]], dtype=float32)]
+Trapped! Reinitialize vars and search again!
+Optimize too slow at speed:  3.1590462e-06
+Optimize too slow at speed:  6.239861e-08
+Optimize too slow at speed:  6.187474e-08
+Optimize too slow at speed:  3.874302e-06
+Optimize too slow at speed:  6.367918e-08
+Optimize too slow at speed:  6.7055225e-08
+Optimize too slow at speed:  4.425645e-06
+Optimize too slow at speed:  3.3862889e-06
+Optimize too slow at speed:  3.0882657e-06
+Optimize too slow at speed:  6.030314e-08
+Optimize too slow at speed:  6.1816536e-08
+Optimize too slow at speed:  1.356937e-06
+Optimize too slow at speed:  6.088521e-08
+Optimize too slow at speed:  6.251503e-08
+Optimize too slow at speed:  9.071082e-07
+Optimize too slow at speed:  6.6822395e-08
+Optimize too slow at speed:  6.0070306e-08
+Optimize too slow at speed:  4.5895576e-06
+Optimize too slow at speed:  3.571622e-07
+Optimize too slow at speed:  9.313226e-10
+Optimize too slow at speed:  3.3304095e-06
+Optimize too slow at speed:  6.589107e-08
+Optimize too slow at speed:  6.0498714e-06
+Optimize too slow at speed:  6.164191e-08
+Optimize too slow at speed:  5.9138983e-08
+Optimize too slow at speed:  6.0594175e-08
+Optimize too slow at speed:  6.0827006e-08
+Root# 2  found at iter# 382
+Solution is:  [array([0.94728214], dtype=float32), array([[ 0.25024486],
+       [-0.48287624],
+       [ 0.839171  ]], dtype=float32)]
+[0.05244394 0.31607816 0.94728214]
+[[ 0.69132882  0.67782187  0.25024486]
+ [ 0.69592708 -0.53152364 -0.48287624]
+ [ 0.19429319 -0.50797641  0.83917099]]
+[0.9472825  0.05244393 0.3160783 ]
+[[-0.2502432   0.69133323 -0.6778176 ]
+ [ 0.48287496  0.6959237   0.53152794]
+ [-0.8391723   0.19428991  0.50797766]]
